@@ -1,0 +1,32 @@
+engine_version: 1
+sources:
+  google_sheets:
+    is_dirty: false
+    last_commit_sha: 9adf9c3d079345db5886c35641ab43a6ffdda392
+    last_commit_timestamp: '2024-03-18T09:25:59+01:00'
+    files:
+      google_sheets/__init__.py:
+        commit_sha: 9adf9c3d079345db5886c35641ab43a6ffdda392
+        git_sha: 5bdb623c1f20deeba705af47146fafecd4868360
+        sha3_256: 243d61a1347b4a670c276e3b340e7076cb0527df0c800ca73bac9b5e10e1dc03
+      google_sheets/setup_script_gcp_oauth.py:
+        commit_sha: 9adf9c3d079345db5886c35641ab43a6ffdda392
+        git_sha: 92f887b95431d8b859261b3bef14c2eea4cec54c
+        sha3_256: f0a2135a43a2f70bb16434c273152e628dc536289f530a94ed188a5d90ff3334
+      google_sheets/README.md:
+        commit_sha: 9adf9c3d079345db5886c35641ab43a6ffdda392
+        git_sha: ccde899de36917f2ed4fc3fa58eb4585a70af4f9
+        sha3_256: 75c4a1dc46a489077e47bf7a23978d57dded974b049ef175629f6d00225935bb
+      google_sheets/helpers/__init__.py:
+        commit_sha: 9adf9c3d079345db5886c35641ab43a6ffdda392
+        git_sha: c573d76f7cdd50a51400466c01d736943a7defb2
+        sha3_256: c0332f0d16dc6301a2447108c72f1f23be6d2a732e0ffae1e98dffb1eb8f7d8d
+      google_sheets/helpers/api_calls.py:
+        commit_sha: 9adf9c3d079345db5886c35641ab43a6ffdda392
+        git_sha: 06e7564822ecd5abf9b708288e8920572898c46b
+        sha3_256: 7c3ddd3639824da132f753299c5a34b7126416c634c5fe988f3b31098ef707b8
+      google_sheets/helpers/data_processing.py:
+        commit_sha: 9adf9c3d079345db5886c35641ab43a6ffdda392
+        git_sha: ca0ae4206513f67e24536f6f885fedbf2f8a5ce3
+        sha3_256: af599cc464762de9b9ba1e5a34298f647a663dd14aadc8bc50102febb72b3860
+    dlt_version_constraint: '>=0.3.25'
